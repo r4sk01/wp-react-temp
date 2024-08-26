@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b0cd9bb-382a-4a98-a883-90838bb42943" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -82,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724640635084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding stylelint, eslint и prettier.">
+      <option name="closed" value="true" />
+      <created>1724641282838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724641282838</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Webpack config is updated. Merger is used." />
     <MESSAGE value="DS_Store is added to ignore list." />
-    <option name="LAST_COMMIT_MESSAGE" value="DS_Store is added to ignore list." />
+    <MESSAGE value="Adding stylelint, eslint и prettier." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding stylelint, eslint и prettier." />
   </component>
 </project>
