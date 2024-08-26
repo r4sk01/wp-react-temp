@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b0cd9bb-382a-4a98-a883-90838bb42943" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/custom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/custom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724641282838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Автоматизация процесса проверки кода.">
+      <option name="closed" value="true" />
+      <created>1724641666897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724641666897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +122,7 @@
     <MESSAGE value="Webpack config is updated. Merger is used." />
     <MESSAGE value="DS_Store is added to ignore list." />
     <MESSAGE value="Adding stylelint, eslint и prettier." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding stylelint, eslint и prettier." />
+    <MESSAGE value="Автоматизация процесса проверки кода." />
+    <option name="LAST_COMMIT_MESSAGE" value="Автоматизация процесса проверки кода." />
   </component>
 </project>
